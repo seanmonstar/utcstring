@@ -1,11 +1,14 @@
-# utc
+# utcstring
+
+[![Build Status](https://travis-ci.org/seanmonstar/utcstring.png?branch=master)](https://travis-ci.org/seanmonstar/utcstring)
+[![NPM version](https://badge.fury.io/js/utcstring.png)](http://badge.fury.io/js/utcstring)
 
 UTC date format utilities.
 
 ## Usage
 
 ```js
-var utc = require('utc');
+var utc = require('utcstring');
 
 utc() // now in UTC string format
 utc(new Date()) // date in UTC string; same as (new Date).toUTCString();

@@ -1,5 +1,5 @@
 {
-  "name": "utc",
+  "name": "utcstring",
   "version": "0.0.0",
   "description": "utc date helpers",
   "main": "utc.js",
@@ -19,11 +19,11 @@
     "utc"
   ],
   "author": "Sean McArthur <sean.monstar@gmail.com> (http://seanmonstar.com)",
-  "bugs": "https://github.com/seanmonstar/utc/issues",
-  "homepage": "https://github.com/seanmonstar/utc",
+  "bugs": "https://github.com/seanmonstar/utcstring/issues",
+  "homepage": "https://github.com/seanmonstar/utcstring",
   "repository": {
     "type": "git",
-    "url": "https://github.com/seanmonstar/utc.git"
+    "url": "https://github.com/seanmonstar/utcstring.git"
   },
   "licenses" : [{
     "type": "MPL 2.0",
