@@ -1,8 +1,8 @@
 {
   "name": "utcstring",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "utc date helpers",
-  "main": "utc.js",
+  "main": "utcstring.js",
   "directories": {
     "test": "test"
   },
